@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Example vanilla resource pack",
+        "name": "idk pack",
+        "uuid": "cedbf3af-30a2-421d-934c-7bd72081c3a9",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 60 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "24d826ed-7d39-41b2-86b4-b34e2d32a8f9",
+            "version": [0, 0, 1]
+        }
+    ]
+}
